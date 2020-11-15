@@ -1,0 +1,12 @@
+:root{
+    --color-dark:black;
+    --color-light:white;
+    --color-gold:#c7b8a5;
+}
+body{
+    font-family: Arial;
+    font-weight:200;
+    background-color: var(--color-dark);
+    color:var(--color-light);
+    letter-spacing:.05rem;
+}
